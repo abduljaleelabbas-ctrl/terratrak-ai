@@ -77,5 +77,5 @@ TerraTrak AI should **not** be relied on alone in these situations:
 ## Author
 
 **Abduljaleel Abbas**
-Agricultural and Bioresources Engineering, Federal University of Technology, Minna
+Agricultural and Bioresources Engineering, Federal University of Technology, Minna.
 Interests: AI and data science for smart and precision agriculture
