@@ -278,7 +278,7 @@
                     resultDiv.style.backgroundColor = 'var(--danger-red)';
                     resultDiv.style.color = '#ffffff';
                     resultDiv.innerHTML = `🔴 DO NOT ENTER (W = ${W})<br><small style="font-weight: normal;">Soil saturated beyond light machinery limits.</small>`;
-                } else if (W >= 0.85) {
+                } else if (W > 1.0) {
                     resultDiv.style.backgroundColor = 'var(--warning-yellow)';
                     resultDiv.style.color = '#000000';
                     resultDiv.innerHTML = `🟡 MARGINAL — LIGHT ONLY (W = ${W})<br><small style="font-weight: normal;">Light spraying and tending permitted. Avoid low-lying spots.</small>`;
