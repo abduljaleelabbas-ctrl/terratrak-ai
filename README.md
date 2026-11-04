@@ -2,7 +2,7 @@
 
 **A prototype soil workability simulator that shows when it is safe to take machinery onto a field.**
 
-TerraTrak AI is a capstone concept from the Meta AI Academy (October 2026). It helps farm managers and tractor operators decide on field entry using a simple workability index: W = current soil moisture / plastic-limit moisture.
+TerraTrak AI is a capstone project concept developed for the Meta AI Academy (October 2026). It helps farm managers and tractor operators decide on field entry using a simple workability index: W = current soil moisture / plastic-limit moisture.
 
 **Live demo:** https://abduljaleelabbas-ctrl.github.io/terratrak-ai/
 
